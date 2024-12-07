@@ -45,7 +45,7 @@
                                         <a class="dropdown-item" href="services.php?id=web"><span>Web development</span></a>
                                     </li>
                                     <li>
-                                        <a class="dropdown-item" href="services.php?id=mobile"><span>Mobile development</span></a>
+                                        <a class="dropdown-item" href="services.php?id=mobile"><span>Mobile App development</span></a>
                                     </li>
                                     <li>
                                         <a class="dropdown-item" href="services.php?id=software"><span>Software development</span></a>
